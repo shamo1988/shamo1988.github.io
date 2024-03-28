@@ -1574,6 +1574,69 @@ input:focus, textarea:focus, select:focus, button:focus {
 }
 
 }
+
+
+.portfolioozderici:after{
+	background: #fff url('../images/portfolio/ozdericiafter.png');
+}
+
+.portfoliohsa:after{
+	background: #fff url('../images/portfolio/hsaafter.png');
+}
+.portfoliobienly:after{
+	background: #fff url('../images/portfolio/bienlyafter.png');
+}
+.portfoliopp:after{
+	background: #fff url('../images/portfolio/ppafter.png');
+}
+.portfoliopiqsoft:after{
+	background: #fff url('../images/portfolio/piqsoftafter.png');
+}
+.portfolioday:after{
+	background: #fff url('../images/portfolio/dayafter.png');
+}
+
+.portfoliolddt:after{
+	background: #fff url('../images/portfolio/lddtafter.png');
+}
+.portfoliosun:after{
+	background: #fff url('../images/portfolio/sunafter.png');
+}
+.portfoliotermo:after{
+	background: #fff url('../images/portfolio/termoafter.png');
+}
+.portfoliobrand:after{
+	background: #fff url('../images/portfolio/brandafter.png');
+}
+.portfolioems:after{
+	background: #fff url('../images/portfolio/emsafter.png');
+}
+.portfoliomeydan:after{
+	background: #fff url('../images/portfolio/meydanafter.png');
+}
+.portfolioalkas:after{
+	background: #fff url('../images/portfolio/alkasyapiafter.png');
+}
+.portfoliogrup:after{
+	background: #fff url('../images/portfolio/grupafter.png');
+}
+.portfolioprodor:after{
+	background: #fff url('../images/portfolio/prodorafter.png');
+}
+.portfolioulusoy:after{
+	background: #fff url('../images/portfolio/ulusoyafter.png');
+}
+.portfoliokasardual:after{
+	background: #fff url('../images/portfolio/kasardualafter.png');
+}
+.portfoliostayso:after{
+	background: #fff url('../images/portfolio/staysoafter.png');
+}
+
+.portfolio01:after{
+	background: #fff url('../images/portfolio/formamakinaafter.png');
+}
+
 .portfolio1:after{
 	background: #000 url('../images/portfolio/thebankhotelistanbulafter.png');
 }
@@ -1596,7 +1659,7 @@ input:focus, textarea:focus, select:focus, button:focus {
 	background: #000 url('../images/portfolio/tlyafter.png');
 }
 .portfolio44:after{
-	background: #000 url('../images/portfolio/itsafter.png');
+	background: #fff url('../images/portfolio/itsafter.png');
 }
 .portfolio5:after{
 	background: #000 url('../images/portfolio/dahikodafter.png');
