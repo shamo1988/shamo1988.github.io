@@ -252,7 +252,7 @@ input:focus, textarea:focus, select:focus, button:focus {
 	font-size: 85px;
 	color: #ffffff;
 	font-weight:bold;
-	background: linear-gradient(0deg, rgb(255 255 255) 45%, rgba(157,178,137,1) 55%);
+	background: linear-gradient(0deg, #ffd05b 45%, #ffd05b 55%);
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
 	background-size: cover;
