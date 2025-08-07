@@ -1551,8 +1551,21 @@ input:focus, textarea:focus, select:focus, button:focus {
 }
 }
 @media (max-width: 1024px) {
+
+.prt_home_wrapper::before {
+    background-color: #0000009e;
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0px;
+    padding: 0;
+    margin: 0;
+}
+
+	
 .prt_home_wrapper {
-    background-image: url(../images/header/about2.png);
+    background-image: url(../images/header/about..png);
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
